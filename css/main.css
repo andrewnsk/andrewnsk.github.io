@@ -1,0 +1,34 @@
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background: #fff; /* Цвет фона */
+    border: 1px solid #e8e8e8; /* Параметры рамки */
+    padding: 20px; /* Поля вокруг текста */
+    margin-top: 20%;
+    margin-bottom: 10%;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.card-container {
+    padding: 2px 16px;
+    border: 0px solid #000000; /* Параметры рамки */
+}
+
+.container {
+    border: 0px solid #000000; /* Параметры рамки */
+}
+
+button.btn {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#contact-btn {
+    white-space: normal;
+}
