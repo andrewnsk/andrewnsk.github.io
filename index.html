@@ -9,6 +9,7 @@
 
     <meta name="Keywords" content="электрик Норильск, электрик Норильск вызов, услуги электрика в Норильске"/>
     <meta name="Description" content="Услуги электрика, устранение неисправностей электропроводки (обрывы, замыкания)"/>
+    <meta name="yandex-verification" content="93faa3e9e6ab375f" />
 
     <!-- Site Properties -->
     <title>Услуги электрика в Норильске</title>
@@ -149,6 +150,13 @@
             ;
         });
 
+        $( ".hide-sidebar-menu" ).click(function() {
+            $('.ui.sidebar')
+                .sidebar('toggle')
+            ;
+            ;
+        });
+
       // fix menu when passed
       $('.masthead')
         .visibility({
@@ -208,9 +216,9 @@
 
 <!-- Sidebar Menu -->
 <div class="ui vertical inverted sidebar menu left">
-    <a class="item" href="#main">Главная</a>
-    <a class="item" href="#work">Работы и цены</a>
-    <a class="item" href="#about-us">О Нас</a>
+    <a class="item hide-sidebar-menu" href="#main">Главная</a>
+    <a class="item hide-sidebar-menu" href="#work">Работы и цены</a>
+    <a class="item hide-sidebar-menu" href="#about-us">О Нас</a>
 </div>
 
 
