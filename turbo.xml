@@ -1,0 +1,33 @@
+<rss
+        xmlns:yandex="http://news.yandex.ru"
+        xmlns:media="http://search.yahoo.com/mrss/"
+        xmlns:turbo="http://turbo.yandex.ru"
+        version="2.0"
+>
+    <channel>
+        <item turbo="true">
+            <link>http://xn----itbjbhbcbgsltfqf3od.xn--p1ai/index.html</link>
+            <turbo:content>
+                <![CDATA[
+                   <header>
+                       <h1>Услуги электрика в Норильске</h1>
+                   </header>
+                   <p>Вызов <b>электрика на дом</b></p>
+                   <img src="http://xn----itbjbhbcbgsltfqf3od.xn--p1ai/img/header.jpg" />
+                   <p>Выполняем следующие виды работ:</p>
+                   <ul>
+                       <li>Устранение неисправностей электропроводки (обрывы, замыкания)</li>
+                       <li>Монтаж проводки и электрооборудования с нуля (гаражи, офисы)</li>
+                       <li>Светодиодное освещение, дистанционное управление, диммеры</li>
+                       <li>Нас не пугают УЗО, УЗМ, частотные преобразователи и т.д.</li>
+                       <li>Монтаж слаботочных систем (СКС, видеонаблюдение)</li>
+                       <li>Проводим пусконаладочные работы</li>
+                       <li>Замена розеток, выключателей</li>
+                       <li>Штробление</li>
+                   </ul>
+
+                ]]>
+            </turbo:content>
+        </item>
+    </channel>
+</rss>
