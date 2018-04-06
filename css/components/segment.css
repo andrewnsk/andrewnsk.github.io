@@ -825,7 +825,7 @@
   z-index: 2;
 }
 .image-background {
-  background: #393939 url(img/header.jpg) no-repeat center center;
+  background: #393939 url(/img/header.jpg) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;

@@ -18776,7 +18776,7 @@ ol.ui.horizontal.list li:before,
 }
 
 .image-background {
-  background: #393939 url(img/header.jpg) no-repeat center center;
+  background: #393939 url(/img/header.jpg) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
